@@ -1,9 +1,7 @@
 package com.example.itgexam.account.service.impl;
 
 import com.example.itgexam.account.dto.AccountCreationResponseDto;
-import com.example.itgexam.account.dto.CustomerReportDto;
 import com.example.itgexam.account.entity.Customer;
-//import com.example.itgexam.account.mapper.AccountReportDtoMapper;
 import com.example.itgexam.account.mapper.CustomerReportDtoMapper;
 import com.example.itgexam.account.repository.AccountRepository;
 import com.example.itgexam.account.repository.CustomerRepository;
